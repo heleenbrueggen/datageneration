@@ -1,0 +1,13 @@
+citHeader("To cite datageneration in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "heleenbrueggen/datageneration: Version 0.2.0 - First release",
+  author   = "Heleen Brüggen",
+  year     = "2024",
+  doi      = "10.5281/zenodo.10492984",
+  url      = "github.com/heleenbrueggen/datageneration",
+  textVersion = paste(
+"Brüggen, H. (2024). heleenbrueggen/datageneration: Version 0.2.0 - First release (Version v0.2.0) [Computer software]. https://doi.org/10.5281/zenodo.10492984"
+  )
+)
