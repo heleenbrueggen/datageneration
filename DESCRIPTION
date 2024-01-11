@@ -1,7 +1,7 @@
 Package: datageneration
 Type: Package
 Title: This package provides a function that generates some normal linear data
-Version: 0.1.0
+Version: 0.2.0
 Author: Heleen Brüggen
 Maintainer: Heleen Brüggen <h.bruggen@students.uu.nl>
 Description: This package provides a function that generates some normal linear data with a specified number of observations, number of predictors, and mean and sd of the variables.
